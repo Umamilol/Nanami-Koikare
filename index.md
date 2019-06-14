@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nami's shithole
 
 You can use the [editor on GitHub](https://github.com/Umamilol/Nanami-Koikare/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
